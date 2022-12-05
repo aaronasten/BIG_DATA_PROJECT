@@ -1,0 +1,3 @@
+This folder contains datasets, hive, SQL and RDD code for the Assessment of BDTT coursework.
+
+ 
